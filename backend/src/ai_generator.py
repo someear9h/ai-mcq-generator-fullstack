@@ -67,7 +67,6 @@ Strict rules:
             "explanation": "In Python, append() is the correct method to add an element to the end of a list."
         }
 
-# Example usage
 if __name__ == "__main__":
     mcq = generate_challenge_with_ai("hard")
     print("\n[Final MCQ JSON Output]:")
